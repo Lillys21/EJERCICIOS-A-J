@@ -1,0 +1,20 @@
+body{
+  background-color: white;
+  /*position: absolute;*/
+}
+#box1 {
+  width: 900px;
+  margin: 0 auto;
+}
+#box2 {
+	position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #f95b34;
+  padding: 10px 0;
+}
+#box2 p{
+  width: 900px;
+  margin: 0 auto;
+}
